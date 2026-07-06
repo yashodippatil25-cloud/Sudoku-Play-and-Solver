@@ -53,19 +53,21 @@ Sudoku-Play-and-Solver
 
 ## 📸 Screenshots
 
-### Home Page
+### 🌸 Play Mode (Pink Theme)
 
-_Add a screenshot here_
+![Play Mode - Pink Theme](screenshots/home-pink.png)
 
-### Play Mode
+### 🌙 Play Mode (Dark Theme)
 
-_Add a screenshot here_
+![Play Mode - Dark Theme](screenshots/play-dark.png)
 
-### Solve Mode
+### ⚡ Solve Mode (Dark Theme)
 
-_Add a screenshot here_
+![Solve Mode - Dark Theme](screenshots/solve-dark.png)
 
----
+### 💙 Solve Mode (Light Blue Theme)
+
+![Solve Mode - Light Blue Theme](screenshots/solve-light.png)
 
 ## ⚙️ Getting Started
 
